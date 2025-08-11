@@ -28,19 +28,16 @@ A JavaFX application for managing bank accounts with user authentication.
    ```bash
    git clone https://github.com/NoLimitJP/BankAccount-Project.git
    cd BankAccount-Project
-Compile the project:
+2. Compile the project:
 
-bash
-Copy
-Edit
+```bash
 javac --module-path lib --add-modules javafx.controls,javafx.fxml -d out src/**/*.java
-Run the application:
+3. Run the application:
 
-bash
-Copy
-Edit
+```bash
 java --module-path lib --add-modules javafx.controls,javafx.fxml -cp out gui.App
-Notes
+
+## Notes
 Ensure your lib folder contains the necessary JavaFX SDK modules.
 
 .class files output to the out directory.
