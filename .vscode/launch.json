@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "javafx.App",
+            "projectName": "BankAccountProject_a7200d67"
+        },
+        {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "myclasses.BankAccount",
+            "projectName": "BankAccountProject_a7200d67"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "myclasses.Hello",
+            "projectName": "BankAccountProject_a7200d67"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "gui.App",
+            "vmArgs": "--module-path C:/Users/javafx-sdk-24.0.2/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

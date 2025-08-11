@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+      "src"
+    ],
+    "java.project.outputPath": "out",
+    "java.project.referencedLibraries": [
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\jfx.incubator.richtext.jar",
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\jdk.jsobject.jar",
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\javafx.fxml.jar",
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\javafx.web.jar",
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\javafx.swing.jar",
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\javafx-swt.jar",
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\jfx.incubator.input.jar",
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\javafx.controls.jar",
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\javafx.media.jar",
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\javafx.base.jar",
+      "c:\\Users\\Jory's Computer\\OneDrive\\Documents\\Web Dev Projects\\JavaProject\\BankAccountProject\\lib\\javafx.graphics.jar"
+    ]
+}
