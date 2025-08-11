@@ -8,7 +8,7 @@
             "type": "java",
             "name": "App",
             "request": "launch",
-            "mainClass": "javafx.App",
+            "mainClass": "gui.App",
             "projectName": "BankAccountProject_a7200d67"
         },
         {
