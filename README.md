@@ -1,18 +1,55 @@
+# BankAccount Project
+
+A JavaFX application for managing bank accounts with user authentication.
+
+## Features
+
+- User login and sign-up functionality
+- Account management (Checking Account support)
+- Simple and clean JavaFX UI using FXML
+
+## Technologies Used
+
+- Java 22
+- JavaFX 24
+- FXML for UI layouts
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Prerequisites
 
-## Folder Structure
+- Java Development Kit (JDK) 22 or later installed
+- JavaFX SDK 24 installed and configured
 
-The workspace contains two folders by default, where:
+### Running the Application
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Clone the repository:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+   ```bash
+   git clone https://github.com/NoLimitJP/BankAccount-Project.git
+   cd BankAccount-Project
+Compile the project:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+bash
+Copy
+Edit
+javac --module-path lib --add-modules javafx.controls,javafx.fxml -d out src/**/*.java
+Run the application:
 
-## Dependency Management
+bash
+Copy
+Edit
+java --module-path lib --add-modules javafx.controls,javafx.fxml -cp out gui.App
+Notes
+Ensure your lib folder contains the necessary JavaFX SDK modules.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+.class files output to the out directory.
+
+The bin folder is excluded from the repository.
+
+Contributing
+Feel free to open issues or submit pull requests.
+
+License
+This project is licensed under the MIT License.
+
